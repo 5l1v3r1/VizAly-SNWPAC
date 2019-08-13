@@ -28,10 +28,8 @@ Supervisor: Bernd Hamann
 ## Citation
 This method is highly experimental and is based on the work in this paper:
 
-Jesus Pulido, Daniel Livescu, Jonathan Woodring, James Ahrens, Bernd Hamann
-
-"Survey and analysis of multiresolution methods for turbulence data" (2016)
-
+Jesus Pulido, Daniel Livescu, Jonathan Woodring, James Ahrens, Bernd Hamann, 
+"*Survey and analysis of multiresolution methods for turbulence data*" (2016).
 https://doi.org/10.1016/j.compfluid.2015.11.001.
 
 # Copyright and License
